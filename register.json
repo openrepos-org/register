@@ -10,6 +10,11 @@
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
-  "sourcepage.org": {},
+  "sourcepage.org": {
+    "hyper-pop": {
+      "repo": "https://github.com/Lyte3075/Hyper-Pop",
+      "target": "lyte3075.github.io"
+    }
+  },
   "sourcepage.sh": {}
 }
