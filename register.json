@@ -8,7 +8,12 @@
     }
   },
   "openrepos.sh": {},
-  "repos.one": {},
+  "repos.one": {
+    "toolcl": {
+      "repo": "https://github.com/ToolGits/ToolCL",
+      "target": "toolcl.cloudaccessfoundation.org"
+    }
+  },
   "sourcepage.io": {},
   "sourcepage.org": {},
   "sourcepage.sh": {}

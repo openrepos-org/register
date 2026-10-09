@@ -11,5 +11,7 @@
     "*.gitbook.com",
     "*.alwaysdata.net"
   ],
-  "custom": []
+  "custom": [
+    "toolcl.cloudaccessfoundation.org"
+  ]
 }
