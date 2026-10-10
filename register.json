@@ -10,6 +10,11 @@
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
-  "sourcepage.org": {},
+  "sourcepage.org": {
+  "missingpawn": {
+    "repo": "https://github.com/MissingHacker20/MissingPawn-website",
+    "target": "missinghacker20.github.io"
+  }
+}
   "sourcepage.sh": {}
 }
