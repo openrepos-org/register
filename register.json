@@ -1,3 +1,4 @@
+
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
@@ -10,6 +11,11 @@
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
-  "sourcepage.org": {},
+  "sourcepage.org": {
+    "jisonjosephsebastian": {
+      "repo": "https://github.com/nosij-playz/jisonsebastian",
+      "target": "jisonsebastian.vercel.app"
+    }
+  },
   "sourcepage.sh": {}
 }
