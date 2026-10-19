@@ -5,7 +5,11 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
-    }
+    },
+    "vpfl": {
+      "repo": "https://github.com/sudo-muneeb/vpfl",
+      "target": "vpfl.pages.dev"
+    } 
   },
   "openrepos.sh": {},
   "repos.one": {},
