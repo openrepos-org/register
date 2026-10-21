@@ -1,10 +1,11 @@
+
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
+    "sarkariresult": {
+      "repo": "https://github.com/coderkartik-droid/SARKARI-RESULT",
+      "target": "sarkari-result-cu4j.onrender.com"
     }
   },
   "openrepos.sh": {},
