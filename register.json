@@ -7,7 +7,12 @@
       "target": "kubecell.pages.dev"
     }
   },
-  "openrepos.sh": {},
+  "openrepos.sh": {
+"aryan-subhan": {
+  "repo": "https://github.com/me235-wq/ZABS-COLLEGE",
+  "target": "me235-wq.github.io"
+}
+},
   "repos.one": {},
   "sourcepage.io": {},
   "sourcepage.org": {},
