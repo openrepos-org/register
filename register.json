@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "sshuttle2": {
+      "repo": "https://github.com/allwinpower/sshuttle2",
+      "target": "allwinpower.github.io"
     }
   },
   "openrepos.sh": {},
