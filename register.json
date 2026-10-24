@@ -2,10 +2,11 @@
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
-    }
+  "voltix-simulator": {
+  "repo": "https://github.com/ebramsameh/VOLTIX-Simulator",
+  "target": "ebramsameh.github.io"
+}
+
   },
   "openrepos.sh": {},
   "repos.one": {},
