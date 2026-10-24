@@ -1,6 +1,11 @@
 {
   "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
+  "openrepos.io": {
+    "rstradingcompany": {
+      "repo": "https://github.com/chetan0701/rs-trading-company",
+      "target": "chetan0701.github.io/rs-trading-company"
+    }
+  },
   "openrepos.org": {
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
