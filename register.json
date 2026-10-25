@@ -1,10 +1,10 @@
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
-  "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
+  "sourcepage.org": {
+    "catalystcupvol2": {
+      "repo": "https://github.com//Kylar-258",
+      "target": "Kylar-258.pages.dev"
     }
   },
   "openrepos.sh": {},
