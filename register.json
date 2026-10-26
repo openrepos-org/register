@@ -2,11 +2,15 @@
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
-    }
+  "kubecell": {
+    "repo": "https://github.com/taosher/KubeCell",
+    "target": "kubecell.pages.dev"
   },
+  "vayu": {
+    "repo": "https://github.com/andaranda/senda",
+    "target": "andaranda.github.io"
+  }
+}
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
