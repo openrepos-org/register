@@ -1,3 +1,4 @@
+
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
@@ -10,6 +11,11 @@
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
-  "sourcepage.org": {},
+  "sourcepage.org": {
+    "breezepython": {
+      "repo": "https://github.com/naveenvino/breezepython_lates",
+      "target": "naveenvino.github.io/breezepython_lates"
+    }
+  },
   "sourcepage.sh": {}
 }
