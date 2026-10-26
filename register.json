@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "nest-admin": {
+      "repo": "https://github.com/buqiyuan/nest-admin",
+      "target": "nest-admin-d8l.pages.dev"
     }
   },
   "openrepos.sh": {},
