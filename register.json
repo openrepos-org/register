@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "tiksave": {
+      "repo": "https://github.com/jeebanrai05-eng/TikTok-video-downloader-",
+      "target": "jeebanrai05-eng.github.io"
     }
   },
   "openrepos.sh": {},
