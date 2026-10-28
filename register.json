@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "jntuastudenthub": {
+      "repo": "https://github.com/harishparlapati-design/jntua-student-hub",
+      "target": "harishparlapati-design.github.io"
     }
   },
   "openrepos.sh": {},
