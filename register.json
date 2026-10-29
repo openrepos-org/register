@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "wedding-card": {
+      "repo": "https://github.com/colony-ha/wedding-card",
+      "target": "colony-ha.github.io"
     }
   },
   "openrepos.sh": {},
