@@ -3,8 +3,8 @@
   "openrepos.io": {},
   "openrepos.org": {
     "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
+      "repo": "https://github.com/DmonNg/MyRoad",
+      "target": "https://dmonng.github.io/MyRoad/"
     }
   },
   "openrepos.sh": {},
