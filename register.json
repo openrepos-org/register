@@ -1,6 +1,11 @@
 {
   "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
+  "openrepos.io": {
+     "myroadmap": {
+       "repo": "https://github.com/DmonNg/MyRoad",
+       "target": "dmonng.github.io"
+     }
+   },
   "openrepos.org": {
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
