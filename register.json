@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "quietoralabs": {
+      "repo": "https://github.com/prajansanjayk1/QuietoraLabs",
+      "target": "quietoralabs.vercel.app"
     }
   },
   "openrepos.sh": {},
