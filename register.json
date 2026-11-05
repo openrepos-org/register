@@ -10,6 +10,11 @@
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
-  "sourcepage.org": {},
+  "sourcepage.org": {
+    "adoos": {
+      "repo": "https://github.com/AdoOS-Systems/www",
+      "target": "adoos-systems.github.io/www"
+    }
+  },
   "sourcepage.sh": {}
 }
