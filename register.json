@@ -1,3 +1,4 @@
+
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
@@ -8,7 +9,12 @@
     }
   },
   "openrepos.sh": {},
-  "repos.one": {},
+  "repos.one": {
+    "attendancecrm": {
+      "repo": "https://github.com/partnermbp/MBP_attendance",
+      "target": "partnermbp.github.io"
+    }
+  },
   "sourcepage.io": {},
   "sourcepage.org": {},
   "sourcepage.sh": {}
