@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "earendel": {
+      "repo": "https://github.com/nayeembd014/earendel",
+      "target": "nayeembd014.github.io"
     }
   },
   "openrepos.sh": {},
