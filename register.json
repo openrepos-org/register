@@ -1,15 +1,15 @@
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
-  "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
+  "sourcepage.sh": {
+    "taco": {
+      "repo": "https://github.com/taco-pepe/taco",
+      "target": "https://github.com/taco-pepe/taco"
     }
   },
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
   "sourcepage.org": {},
-  "sourcepage.sh": {}
+  "openrepos.org": {}
 }
