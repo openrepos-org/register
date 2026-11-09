@@ -1,6 +1,11 @@
 {
   "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
+  "openrepos.io": {
+    "finclass": {
+      "repo": "https://github.com/carl08gitrithub/finclass",
+      "target": "carl08gitrithub.github.io"
+    }
+  },
   "openrepos.org": {
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
