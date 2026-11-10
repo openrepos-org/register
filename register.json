@@ -1,6 +1,11 @@
 {
   "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
+  "openrepos.io": {
+    "wozya": {
+      "repo": "https://github.com/wozymiyim-debug/WOZY-NOVA",
+      "target": "wozymiyim-debug.github.io"
+    }
+  },
   "openrepos.org": {
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
