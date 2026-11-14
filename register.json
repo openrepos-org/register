@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "high-tech-entertainment": {
+      "repo": "https://github.com/suwilanjisinkamba184-cmd/High-tech-entertainment-",
+      "target": "suwilanjisinkamba184-cmd.github.io"
     }
   },
   "openrepos.sh": {},
