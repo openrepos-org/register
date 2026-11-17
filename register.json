@@ -8,7 +8,12 @@
     }
   },
   "openrepos.sh": {},
-  "repos.one": {},
+  "repos.one": {
+    "f-studio-apps": {
+      "repo": "https://github.com/fahdpooppo-sudo/f-Studio-apps.io",
+      "target": "f-studio.pages.dev"
+    }
+  },
   "sourcepage.io": {},
   "sourcepage.org": {},
   "sourcepage.sh": {}
