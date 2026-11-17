@@ -1,7 +1,12 @@
 {
+{
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
+    "sciinfra": {
+      "repo": "https://github.com/SciINFRA/SciINFRA",
+      "target": "sciinfra.openrepos.org"
+    },
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
