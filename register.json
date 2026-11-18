@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "opencitizenscience": {
+      "repo": "https://github.com/HarshInvader/open-citizen-science",
+      "target": "opencitizenscience.pages.dev"
     }
   },
   "openrepos.sh": {},
