@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "silen": {
+      "repo": "https://github.com/Cgtlpa/Silensite",
+      "target": "silenlinux.openrepos.org"
     }
   },
   "openrepos.sh": {},
