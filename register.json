@@ -2,6 +2,10 @@
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
+    "ratsarecool": {
+      "repo": "https://github.com/ilya814/rats-are-cool-discord-bot",
+      "target": "ilya814.github.io"
+    },
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
