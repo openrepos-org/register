@@ -8,7 +8,12 @@
     }
   },
   "openrepos.sh": {},
-  "repos.one": {},
+  "repos.one": {
+    "kanz": {
+      "repo": "https://github.com/ibra8y3-web/kanz",
+      "target": "ibra8y3-web.github.io"
+    }
+  },
   "sourcepage.io": {},
   "sourcepage.org": {},
   "sourcepage.sh": {}
